@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrangeIOC.CSharp", "StrangeIOC.CSharp.csproj", "{667BF1D8-8CFD-4D0A-C2D0-675AB14892BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrangeIOC.CSharp.Editor", "StrangeIOC.CSharp.Editor.csproj", "{A90D9FC7-30C4-6875-2E23-ACD4D4B9EB0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{667BF1D8-8CFD-4D0A-C2D0-675AB14892BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667BF1D8-8CFD-4D0A-C2D0-675AB14892BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667BF1D8-8CFD-4D0A-C2D0-675AB14892BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667BF1D8-8CFD-4D0A-C2D0-675AB14892BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A90D9FC7-30C4-6875-2E23-ACD4D4B9EB0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A90D9FC7-30C4-6875-2E23-ACD4D4B9EB0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A90D9FC7-30C4-6875-2E23-ACD4D4B9EB0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A90D9FC7-30C4-6875-2E23-ACD4D4B9EB0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
