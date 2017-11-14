@@ -93,6 +93,8 @@
     <Compile Include="Assets\Demo1\Scripts\View\DeactiveForTime.cs" />
     <Compile Include="Assets\Demo1\Scripts\View\Demo1MediatorEvent.cs" />
     <Compile Include="Assets\Framework\Scripts\Manager\AduioManager.cs" />
+    <Compile Include="Assets\Framework\Scripts\Manager\LocalizationManager.cs" />
+    <Compile Include="Assets\Framework\Scripts\Manager\LocalizationText.cs" />
     <Compile Include="Assets\Framework\Scripts\Manager\PoolManager.cs" />
     <Compile Include="Assets\Framework\Scripts\pool\GameObjectPool.cs" />
     <Compile Include="Assets\Framework\Scripts\pool\GameObjectPoolList.cs" />
@@ -195,6 +197,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Framework\Resources\audioList.txt" />
+    <None Include="Assets\Resources\Localization\Chinese.txt" />
+    <None Include="Assets\Resources\Localization\English.txt" />
     <None Include="Assets\StrangeIoC\scripts\strange\extensions\ReadMe.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />

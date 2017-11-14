@@ -12,5 +12,6 @@ public class StartCommand : Command {
         Debug.Log("StartCommandExcute");
         AM.Init();
         PoolManager.Instance.Init();
+        LocalizationManager.Instance.Init();
     }
 }
